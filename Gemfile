@@ -31,6 +31,8 @@ gem 'surveyor', github: 'NUBIC/surveyor'
 gem 'surveyor_gui', :git => 'git://github.com/kjayma/surveyor_gui.git'
 
 gem 'hirb-unicode'
+gem 'rails_12factor', group: :production
+#12 factor for heroku
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 

@@ -16,7 +16,7 @@ Most of the items described here are already available in the surveyor and surve
 
 # Survey Creation
 
-You can check any created surveys by going to ```localhost:3000/surveyor_gui/```.  To create a new survey, click on the _New Survey_ link.
+You can check any created surveys by going to ```localhost:3000/surveyor_gui/surveyforms```.  To create a new survey, click on the _New Survey_ link.
 
 # Take Survey
 

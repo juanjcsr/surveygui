@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/juanjcsr/surveygui.svg?branch=master)](https://travis-ci.org/juanjcsr/surveygui)
+
 # Surveygui
 
 Quickstart package for the [surveyor](https://github.com/NUBIC/surveyor) and [surveyor-gui](https://github.com/kjayma/surveyor_gui) packages.
